@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1555934012 source:c:\users\açkgoz\desktop\nouveau dossier\rendudugroupe19\[ufdev]groupe19\langage_c_connected_flowers_interface\main.c
+	<stdio.h>
+	<stdlib.h>
+	"print.h"
+	<conio.h>
+
+1555734064 c:\users\açkgoz\desktop\nouveau dossier\rendudugroupe19\[ufdev]groupe19\langage_c_connected_flowers_interface\print.h
+
+1555931986 source:c:\users\açkgoz\desktop\nouveau dossier\rendudugroupe19\[ufdev]groupe19\langage_c_connected_flowers_interface\print.c
+
+1555931986 source:c:\users\açkgoz\desktop\[ufdev]groupe19\rendu2\langage_c_connected_flowers_interface\print.c
+
+1555938104 source:c:\users\açkgoz\desktop\nouveau dossier (2)\rendu2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"print.h"
+	<conio.h>
+
+1555734064 c:\users\açkgoz\desktop\nouveau dossier (2)\rendu2\print.h
+
+1555931986 source:c:\users\açkgoz\desktop\nouveau dossier (2)\rendu2\print.c
+
